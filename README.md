@@ -3,7 +3,7 @@ isaac_ros_yolov8项目：在docker中使用自定义yolov8模型（经过TensorR
 
 ### 使用教程
 
-本人的部署环境是Jetson orin nano、ROS2 humble、D435i
+本人的部署环境是Jetson orin nano 8GB、ROS2 humble、D435i
 
 ##### 1.部署相机环境
 
